@@ -1,2 +1,1 @@
-# WriteUp
-Bug Bounty Chronicles – A collection of security write-ups, real-world vulnerability reports, and insights into ethical hacking. From discovering API flaws to securing high-stakes esports tournaments, this repo shares lessons, techniques, and experiences from the field.
+<iframe src="https://rushabhvyas.notion.site/ebd/8cac183fa57f4c869ccafd8d210fba92" width="100%" height="600" frameborder="0" allowfullscreen />
